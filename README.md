@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm an SDE 👨‍💻 at Striim. I play around with RESTful APIs and recently discovered the power of Go.
-
+SDE 👨‍💻 at Striim
+M.Sc Software Systems @ Coimbatore Institute of Technology 👨‍🎓
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/balaji227/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/balaji_227) 
