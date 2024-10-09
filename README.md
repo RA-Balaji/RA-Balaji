@@ -1,5 +1,5 @@
 # 💫 About Me:
-SDE 👨‍💻 at Striim\
+Developer at Arctic Wolf Networks\
 M.Sc Software Systems @ Coimbatore Institute of Technology 👨‍🎓
 
 ## 🌐 Socials:
